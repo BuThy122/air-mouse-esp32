@@ -43,20 +43,17 @@ The system uses motion sensing and Bluetooth Low Energy (BLE) to control cursor 
 
 ---
 
-## 🖼️ Circuit Diagram
+## Circuit Diagram
 
-![Circuit Diagram](circuit/circuit_diagram.png)
-
----
-
-## 📸 Project Images
-
-![Project Image 1](images/photo1.jpg)  
-![Project Image 2](images/photo2.jpg)  
-![Project Image 3](images/photo3.jpg)
+![Circuit Diagram](circuit_diagram/circuit_diagram.png)
 
 ---
 
+## Project Images
+
+![Project Image 1](images/photo1.png)  
+![Project Image 2](images/photo2.png)  
+![Project Image 3](images/photo3.png)
 
 ---
 
