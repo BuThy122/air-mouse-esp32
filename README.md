@@ -43,17 +43,15 @@ The system uses motion sensing and Bluetooth Low Energy (BLE) to control cursor 
 
 ---
 
-## Circuit Diagram
-
-![Circuit Diagram](circuit_diagram/circuit_diagram.png)
+## 📷 Circuit Diagram
+![Circuit Diagram](https://raw.githubusercontent.com/BuThy122/air-mouse-esp32/main/air%20mouse%20esp32/circuit_diagram/circuit_diagram.png)
 
 ---
 
-## Project Images
-
-![Project Image 1](images/photo1.png)  
-![Project Image 2](images/photo2.png)  
-![Project Image 3](images/photo3.png)
+## 📸 Project Images
+![Project Image 1](https://raw.githubusercontent.com/BuThy122/air-mouse-esp32/main/air%20mouse%20esp32/images/photo1.png)
+![Project Image 2](https://raw.githubusercontent.com/BuThy122/air-mouse-esp32/main/air%20mouse%20esp32/images/photo2.png)
+![Project Image 3](https://raw.githubusercontent.com/BuThy122/air-mouse-esp32/main/air%20mouse%20esp32/images/photo3.png)
 
 ---
 
